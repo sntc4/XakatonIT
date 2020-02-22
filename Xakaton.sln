@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xakaton", "Xakaton\Xakaton.csproj", "{DDF251B3-3031-462A-A5E1-41FB22FD8C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF251B3-3031-462A-A5E1-41FB22FD8C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF251B3-3031-462A-A5E1-41FB22FD8C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF251B3-3031-462A-A5E1-41FB22FD8C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF251B3-3031-462A-A5E1-41FB22FD8C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF5CB74C-38B6-4C97-9306-072604B8C354}
+	EndGlobalSection
+EndGlobal
